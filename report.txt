@@ -1,0 +1,24 @@
+========================================
+       LAPORAN ANALISIS TEKS
+========================================
+Jumlah baris       : 4
+Jumlah kata        : 26
+Jumlah huruf vokal : 72
+Jumlah konsonan    : 115
+
+5 KATA PALING SERING MUNCUL
+----------------------------------------
+python          : 3 kali
+pemrograman     : 3 kali
+belajar         : 2 kali
+dan             : 2 kali
+adalah          : 1 kali
+
+GRAFIK FREKUENSI KATA
+----------------------------------------
+python          ### (3)
+pemrograman     ### (3)
+belajar         ## (2)
+dan             ## (2)
+adalah          # (1)
+========================================
